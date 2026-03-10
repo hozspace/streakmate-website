@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FGT9H88FH6.com.james.StreakMate",
+        "paths": ["/invite/*"]
+      }
+    ]
+  }
+}
